@@ -11,12 +11,13 @@
 
 - 📫 How to reach me **yousifhossammohamed@gmail.com**
 
-- 📄 **Know about my experiences**: [Resume](https://drive.google.com/file/d/1YKArM7j_En9BQbqPJwtn4368LNTnuUp1/view?usp=drive_link)
+- 📄 Know about my experiences: **[Resume]**(https://drive.google.com/file/d/1YKArM7j_En9BQbqPJwtn4368LNTnuUp1/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yousif-hossam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousif-hossam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yousif_hossam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yousif_hossam" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@yousifhossammoh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yousifhossammoh1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
