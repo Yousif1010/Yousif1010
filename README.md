@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring framework, Angular**
+- 🌱 I’m currently learning: **Spring framework, Angular**
 
-- 📫 How to reach me **yousifhossammohamed@gmail.com**
+- 📫 How to reach me: **yousifhossammohamed@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1YKArM7j_En9BQbqPJwtn4368LNTnuUp1/view?usp=drive_link)
 
